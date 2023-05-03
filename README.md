@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mina Ehab Matta</h1>
+<h1 align="center">Hi 👋, I'm Mina Yanni</h1>
 <h3 align="center">Pushing the limits of what's possible with dedication!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mina0matta&label=Profile%20views&color=0e75b6&style=flat" alt="mina0matta" /> </p>
