@@ -11,7 +11,7 @@
 
 - 💬 Ask me about : **AUTOSAR · ISO 26262 · Interfacing · Automotive · LIN · CAN · AUTOSAR · Embedded Systems · C (Programming Language) · Embedded C · Communication Protocols · Computer Architecture · Automotive**
 
-- 📫 Reach me at : **mina.matta3000hero@gmail.com**
+- 📫 Reach me at : **mina.y4nni@gmail.com**
 
 - ⚡ Fun fact : **Do you know that the hieroglyphs, an ancient language once used by the Egyptians, has about 700 symbols? Can you imagine learning this language? Why not give it a try when you go? Maybe you’ll be able to read some ancient symbols on some tombs**
 
